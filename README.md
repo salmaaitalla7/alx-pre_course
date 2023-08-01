@@ -1,2 +1,1 @@
-my first readme
-CÃ^
+hello readme
